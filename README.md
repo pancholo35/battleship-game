@@ -27,11 +27,11 @@
 
 #### PLACEHOLDER 1
 
-![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.iPoMxwP7h_tq1jtb4z8apAHaFb%26pid%3DApi&f=1)
+![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.netpricedirect.co.uk%2Fprod_image%2F47487.jpg&f=1&nofb=1&ipt=63391891a5bfa0911916a49359e4aa58edeb1e58fe16d984a2757bc0d7406805&ipo=images)
 
 #### PLACEHOLDER 2
 
-![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yq2bJZuTLQft8VH64qWKugHaE9%26pid%3DApi&f=1)
+![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh6.googleusercontent.com%2Fproxy%2FzVunevp0nstVxc9aUUQ5m3lpwIVLyyEHeQa5Ob659SH-qyi92KkoZy5M9KPLMMJz4B6cGe8MPoqDsulIqP5_ZFmTj_1pEUeXTLYdP4LSLYuh3Kb7wjJ_YiQ1DNT8ILBXKPC3cSTMblbDnvoCbPkUePNL%3Dw1200-h630-p-k-no-nu&f=1&nofb=1&ipt=45f72d279d5748d03075848d2f5ee77ba2196f80497b4e3ec0a5b38b0cbb5c99&ipo=images)
 
 ### **_Future Updates_**
 
@@ -39,4 +39,4 @@
 
 ### **_Credits_**
 
-#### Funny Images: [DuckDuckGo Search](https://duckduckgo.com/?t=ha&va=j)
+#### Placeholder Images: [DuckDuckGo Search](https://duckduckgo.com/?t=ha&va=j)
