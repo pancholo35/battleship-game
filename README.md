@@ -21,7 +21,7 @@
 
 ### **_Getting Started_**
 
-#### A Trello board was used to plan this game. You can find it [here](URL)
+#### A Trello board was used to plan this game. You can find it [here](https://trello.com/b/M18DDLbH/battleship)
 
 ### **_Screenshots_**
 
@@ -35,10 +35,7 @@
 
 ### **_Future Updates_**
 
-- [ ] Future Update 1
-- [ ] Future Update 2
-- [x] Completed Update
-- [x] ~~Strikethrough~~ Items Also
+- [ ] Minimum Project Requirements
 
 ### **_Credits_**
 
