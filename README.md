@@ -21,6 +21,8 @@
 
 ### **_Getting Started_**
 
+#### The very first thing I'll try to accomplish is building a ship and displaying it onscreen.
+
 #### A Trello board was used to plan this game. You can find it [here](https://trello.com/b/M18DDLbH/battleship)
 
 ### **_Screenshots_**
